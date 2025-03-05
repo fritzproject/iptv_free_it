@@ -1,5 +1,5 @@
-#EXTINF:-1,Rai 3 TGR Friuli Venezia Giulia [309]
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72926&output=16
+#EXTINF:-1 tvg-id=""tvg-name=""tvg-logo=""group-title="Rai Regionale",TGR Friuli Venezia Giulia
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668651
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/it.xml, http://www.epgitalia.tv/xml/guide.xml"
 #EXTINF:0 tvg-name="Rai 1" tvg-id="Rai 1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
