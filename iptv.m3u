@@ -127,53 +127,6 @@ https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist
 https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/F59D8EB0332E783633CDDE8E265844975635D24F/index.m3u8
 #EXTINF:-1,[62] Donna TV
 https://sportitaliaamd.akamaized.net/live/Donna_TV/hls/42EB42E58EA44362045EFEA804E3FCF0DB33C481/index.m3u8
-#EXTINF:-1,[64] Supertennis
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
-#EXTINF:-1,[65] ALMA TV
-https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
-#EXTINF:-1,[66] Radio 105 TV
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
-#EXTINF:-1,[67] R101 TV
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
-#EXTINF:-1,[68] BOM CHANNEL
-https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
-#EXTINF:-1,[69] Deejay TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1,[70] RadioItaliaTV
-https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1,[101] Rai 4K (HbbTV)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1,[145] Padre Pio TV
-https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
-#EXTINF:-1,[158] RADIO KISS KISS TV
-https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
-#EXTINF:-1,[202] Rai Radio 2 Visual
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1,[233] RTL 102.5 News
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
-#EXTINF:-1,[257] VIRGIN RADIO
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
-#EXTINF:-1,[258] RADIOFRECCIA
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
-#EXTINF:-1,[262] Byoblu
-https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
-#EXTINF:-1,[265] RDS Social TV
-https://stream.rdstv.radio/index.m3u8
-#EXTINF:-1,[266] RADIO ZETA
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
-#EXTINF:-1,[713] Radio Capital TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
-#EXTINF:-1,[715] M2O TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1,[772] Radio Montecarlo TV
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
-#EXTINF:-1,[831] RTV San Marino
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b2192000_slita.m3u8
-#EXTINF:-1,[899] Radio TV Serie A con RDS
-https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
