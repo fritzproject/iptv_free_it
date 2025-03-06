@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Rai",Rai 3 FVG
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72926
+
