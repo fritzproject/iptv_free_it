@@ -124,9 +124,3 @@ https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/F59D8EB0332E783633C
 https://sportitaliaamd.akamaized.net/video_0/Donna_TV/hls/42EB42E58EA44362045EFEA804E3FCF0DB33C481/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="",Telefriuli
 http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="146.png",Company TV
-rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
-#EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA-VENETO" tvg-logo="148.png",Antenna 3
-rtsp://live.cdn2.streamago.tv/streamago/34674/28723/?idcanale=28723
-#EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="149.png",Telepordenone
-rtmp://213.187.12.18/telepn/telepn
