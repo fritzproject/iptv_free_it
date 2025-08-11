@@ -47,8 +47,6 @@ https://tivusto.org/sh/raiplay1
 https://tivusto.org/sh/raiplay2
 #EXTINF:-1,RaiPlay 3
 https://tivusto.org/sh/raiplay3
-#EXTINF:-1,=== Canali Mediaset ===
-http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1,27 Twentyseven 
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 #EXTINF:-1,Cine 34 
@@ -81,8 +79,6 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 #EXTINF:-1,Super !
 https://jmp2.uk/plu-6093f6f8351eb0000754afb8.m3u8
-#EXTINF:-1,=== PlutoTV===
-http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1, 16 Anni e Incinta
 https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
 #EXTINF:-1, Affare Fatto
@@ -827,8 +823,6 @@ https://amg02703-leadstory-amg02703c13-rakuten-us-2257.playouts.now.amagi.tv/pla
 https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8?ads_amagi_channel=938&amp;ads_amznbrmid=&amp;ads_amznregion=&amp;ads_amznslots=&amp;ads_app_bundle=com.rakuten.tv&amp;ads_app_store_url=rakuten.tv&amp;ads_app_version=&amp;ads_brand_name=&amp;ads_content_classification=6&amp;ads_device_lmt=1&amp;ads_device_make=&amp;ads_device_model=&amp;ads_device_type=web&amp;ads_device_year=&amp;ads_env=prod&amp;ads_gam_correlator=&amp;ads_gdpr_consent=&amp;ads_market=it&amp;ads_os_language=&amp;ads_player_height=&amp;ads_player_width=&amp;ads_pod_type=playerpage_midroll&amp;ads_ppid=&amp;ads_rtv_content_id=6310&amp;ads_rtv_content_language=eng&amp;ads_rtvid=271861&amp;ads_streaming_id=fbeffe92-68ae-48b0-81ce-13baf06b24fc&amp;ads_tivo_devcountry=&amp;ads_tivo_devmakedate=&amp;ads_tivo_mvpd=&amp;ads_tivo_platform=&amp;ads_tivo_usid=&amp;ads_tivo_uxloc=&amp;ads_user_type=visitor
 #EXTINF:-1,The Guardian
 https://d73fb24db4524ddca65ec4935761d3ef.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TheGuardianChannel/playlist.m3u8?ads.amznbrmid=&amp;ads.amznregion=&amp;ads.amznslots=&amp;ads.app_bundle=com.rakuten.tv&amp;ads.app_store_url=rakuten.tv&amp;ads.app_version=&amp;ads.brand_name=&amp;ads.content_classification=14&amp;ads.device_lmt=1&amp;ads.device_make=&amp;ads.device_model=&amp;ads.device_type=web&amp;ads.device_year=&amp;ads.env=prod&amp;ads.gam_correlator=&amp;ads.gdpr_consent=&amp;ads.market=it&amp;ads.os_language=&amp;ads.player_height=&amp;ads.player_width=&amp;ads.pod_type=playerpage_midroll&amp;ads.ppid=&amp;ads.rtv_content_id=3986&amp;ads.rtv_content_language=eng&amp;ads.rtvid=271861&amp;ads.streaming_id=d2ba71bf-01d0-4d71-b575-a80518a81a81&amp;ads.tivo_devcountry=&amp;ads.tivo_devmakedate=&amp;ads.tivo_mvpd=&amp;ads.tivo_platform=&amp;ads.tivo_usid=&amp;ads.tivo_uxloc=&amp;ads.user_type=visitor&amp;ads.wurl_channel=1034
-#EXTINF:-1,=== Wedo Tv ===
-http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1,Cinema Excelsior
 https://amg02512-nexodigital-amg02512c3-wedotv-eu-870.playouts.now.amagi.tv/playlist/amg02512-nexodigital-cinemaexcelsior-wedotveu/playlist.m3u8
 #EXTINF:-1,Duck Tv
